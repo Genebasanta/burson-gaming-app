@@ -1,6 +1,6 @@
 /*
   Este es el archivo 'package.json'.
-  Debes crear este archivo en la raíz de tu proyecto.
+  Debes crearlo en la raíz de tu proyecto.
   Contiene la información de tu proyecto y las dependencias (como React y Vite).
 */
 {
