@@ -5,9 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "dev": "vite",
-    "build": "npm run install:deps && vite build",
-    "preview": "vite preview",
-    "install:deps": "npm install"
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "keywords": [],
   "author": "",
@@ -23,4 +22,3 @@
     "tailwindcss": "^3.4.4"
   }
 }
-
